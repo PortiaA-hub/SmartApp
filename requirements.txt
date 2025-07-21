@@ -1,3 +1,6 @@
 streamlit
 sentence-transformers
 faiss-cpu
+torch
+openai
+numpy
